@@ -12,4 +12,6 @@
 
 ## Summary
 
-- Since the differences of means as well as standard deviations of the two months are not 
+- Since the differences of means as well as standard deviations of the two months are not drastic, it is safe to conclude that the surf and ice cream store should be able to sustain year-round. It is entirely possible that they might still achieve slightly better sales in June versus December, but it is highly unlikely that they will see a drastic decrease in sales during the winter months.
+- One query I would perform to gather more weather data for Juen and December would be looking at the humidity of each day in June versus December. 
+- Another query I could potentially perform is looking at the speed of the wind or how strong the wind was for each day of those two months. 

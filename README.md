@@ -10,6 +10,12 @@
 - The standard deviation of June is around 3.26, and the standard deviation of December is around 3.75, making a 0.5 difference between the two months.
 - The max temperature of June is 85, and the max of December is 83, only two degrees colder than it of June. The min temperature of June is 64, and the min temperature of December is 56. The min of December is 8 degrees colder than it of June, making a bigger difference than the difference of max temperature of the two months.
 
+- ![june_temp.PNG](june_temp.PNG)
+
+- ![dec_temp.PNG](dec_temp.PNG)
+
+- [SurfsUp_Challenge.ipynb](SurfsUp_Challenge.ipynb)
+
 ## Summary
 
 - Since the differences of means as well as standard deviations of the two months are not drastic, it is safe to conclude that the surf and ice cream store should be able to sustain year-round. It is entirely possible that they might still achieve slightly better sales in June versus December, but it is highly unlikely that they will see a drastic decrease in sales during the winter months.
